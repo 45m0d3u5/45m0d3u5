@@ -15,7 +15,5 @@ Jest · Cypress
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=45m0d3u5&layout=compact)]()
 <br />
 ![](https://komarev.com/ghpvc/?username=45m0d3u5)
